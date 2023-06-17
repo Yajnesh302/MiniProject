@@ -27,7 +27,7 @@ pip install face_recognition
 ```
 pip install streamlit
 ```
-4. Run the code
+5. Run the code
 ```
 streamlit run reco.py
 ```
