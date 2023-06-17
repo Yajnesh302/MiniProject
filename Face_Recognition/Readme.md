@@ -20,5 +20,15 @@ cd myenv\Scripts
 4. Install the required packages
 ```
 pip install opencv-python
-
+```
+```
+pip install face_recognition
+```
+```
+pip install streamlit
+```
+4. Run the code
+```
+streamlit run reco.py
+```
 
