@@ -9,7 +9,16 @@ This code use Streamlit to make Webpage interface for user friendly
 ```
 python -m venv myenv
 ```
-2. Move inside Face_Recognition directory using cd command
-3. Install the 
+2. Activate environment
+```
+cd myenv\Scripts
+```
+```
+.\activate
+```
+3. Move inside Face_Recognition directory using cd "path to Face_recognition folder"
+4. Install the required packages
+```
+pip install opencv-python
 
 
